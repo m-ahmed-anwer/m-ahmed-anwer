@@ -1,5 +1,5 @@
-<p align="center"> <img align="center" src="https://www.themoontechnologies.com/images/banner-bg.gif" height="250" alt="" /> 
-</p>
+
+<br/>
 <h1 align="center">Hello 👋 , I'm Ahmed Anwer</h1>
 <br/>
 <h3 align="center">A Passionate Developer from Sri Lanka</h3>
@@ -35,3 +35,6 @@ align="right"                       src="https://camo.githubusercontent.com/5ddf
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ahmed-anwer&show_icons=true&locale=en" alt="m-ahmed-anwer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahmed-anwer&" alt="m-ahmed-anwer" /></p>
+
+<p align="center"> <img align="center" src="https://www.themoontechnologies.com/images/banner-bg.gif"  alt="" /> 
+</p>
