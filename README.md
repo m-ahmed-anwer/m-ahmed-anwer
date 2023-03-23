@@ -1,7 +1,7 @@
 
 <br/>
 <h1 align="center">Hello 👋 , I'm Ahmed Anwer</h1>
-<br/>
+
 <h3 align="center">A Passionate Developer from Sri Lanka</h3>
 
 
