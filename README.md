@@ -14,7 +14,7 @@ align="right"                       src="https://camo.githubusercontent.com/5ddf
 
 - 🔭 I’m currently working on [Future bank](https://github.com/m-ahmed-anwer/bank-app)
 
-- 💬 Ask me about **Almost anything about dev**
+- 💬 Ask me about **Almost anything in dev**
 
 - 📫 How to reach me **ahmedanwer0094@gmail.com**
 
