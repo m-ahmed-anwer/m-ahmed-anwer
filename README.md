@@ -24,7 +24,7 @@ align="right"                       src="https://camo.githubusercontent.com/5ddf
 <p align="left">
 <a href="https://twitter.com/m_ahmed_anwer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_ahmed_anwer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-anwer-296473206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-anwer" height="30" width="40" /></a>
-<a href="https://instagram.com/m_ahmed.anwer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_ahmed.anwer" height="30" width="40" /></a>
+<a href="https://instagram.com/m_anwer.ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_ahmed.anwer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
