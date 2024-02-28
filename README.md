@@ -15,7 +15,7 @@ align="right"                       src="https://camo.githubusercontent.com/6149
 
 - 🔭 I’m currently learning NextJs/ Typescript
 
-- 💬 Ask me about **Almost anything in dev**
+- 💬 Ask me about **🏎️**
 
 - 📫 How to reach me **ahmedanwer0094@gmail.com**
 
