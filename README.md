@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ahmedanwer0094@gmail.com**
 
-- ⚡ Fun fact **404 Not Found**
+- ⚡ Fun fact **404**
 
 
 <h3 align="left">Languages and Tools:</h3>
