@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-ahmed-anwer&label=Profile%20views&color=0e75b6&style=flat" alt="m-ahmed-anwer" /> </p>
 
 
-- 🔭 I’m currently learning Swift - IOS Development, Next.js
+- 🔭 I’m currently learning Typescript - Next.js
 
 - 💬 Ask me about **🏎️**
 
