@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-ahmed-anwer&label=Profile%20views&color=0e75b6&style=flat" alt="m-ahmed-anwer" /> </p>
 
 
-- 🔭 I’m currently learning Microservices && Typescript - Next.js
+- 🔭 I’m currently mastering LLMs, Retrieval-Augmented Generation (RAG), and AI agents for building next-gen conversational systems and autonomous workflows. 🚀
 
 - 💬 Ask me about **🏎️**
 
