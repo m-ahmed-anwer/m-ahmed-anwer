@@ -28,6 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-ahmed-anwer&show_icons=true&locale=en" alt="m-ahmed-anwer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahmed-anwer&" alt="m-ahmed-anwer" /></p>
 
 </p>
