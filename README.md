@@ -2,7 +2,7 @@
 <br/>
 <h1 align="center">Hello 👋 , I'm Ahmed Anwer</h1>
 
-<h3 align="center">A Passionate Software Engineering Student from Sri Lanka</h3>
+<h3 align="center">A Passionate Software Engineering from Sri Lanka</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-ahmed-anwer" alt="m-ahmed-anwer" /></a> </p>
