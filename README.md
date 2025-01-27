@@ -30,5 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-ahmed-anwer&" alt="m-ahmed-anwer" /></p>
 
-<p align="center"> <img align="center" src="https://www.themoontechnologies.com/images/banner-bg.gif"  alt="" /> 
 </p>
