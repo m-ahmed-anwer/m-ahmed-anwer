@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ahmedanwer0094@gmail.com**
 
-- ⚡ Fun fact **404**
+- ⚡ Fun fact **Error 418: I'm a teapot.**
 
 
 <h3 align="left">Languages and Tools:</h3>
