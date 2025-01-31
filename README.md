@@ -4,7 +4,6 @@
 
 <h3 align="center">A Passionate Software Engineering from Sri Lanka</h3>
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-ahmed-anwer" alt="m-ahmed-anwer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/m_ahmed_anwer" target="blank"><img src="https://img.shields.io/twitter/follow/m_ahmed_anwer?logo=twitter&style=for-the-badge" alt="m_ahmed_anwer" /></a> </p>
